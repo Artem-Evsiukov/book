@@ -430,7 +430,7 @@ input:focus::placeholder {
 	width: 213px !important;
 	height: 17.2px !important;
 	border: 1px solid #999 !important;
-	padding: 2.2px 1px 1px 5px !important;
+	padding: 2.2px 1px 4px 5px !important;
 	font-size: 15px !important;
 	color: #666 !important;
 	background-color: #fff !important;
@@ -530,6 +530,9 @@ input:focus::placeholder {
 	}
 	.logo a img {
 		object-fit: cover;
+	}
+	.logo__input {
+		padding: 2.2px 1px 1px 5px !important;
 	}
 }
 @media (min-width: 576px) {
