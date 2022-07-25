@@ -433,6 +433,7 @@ input:focus::placeholder {
 	padding: 2.2px 1px 1px 5px !important;
 	font-size: 15px !important;
 	color: #666 !important;
+	background-color: #fff !important;
 }
 .logo__btn {
 	font-size: 11px;
